@@ -1,0 +1,1264 @@
+.mediaViewInfo {
+	--web-view-name: Map - Purple (MM);
+	--web-view-id: Map_-_Purple_MM;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Map_-_Purple_MM;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Map_-_Purple_MM {
+	position: absolute;
+	width: 1024px;
+	height: 600px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Map - Purple (MM);
+	--web-view-id: Map_-_Purple_MM;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Rectangle_387_id {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(44,101,141,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_387_id {
+	position: absolute;
+	overflow: visible;
+	width: 334px;
+	height: 440px;
+	left: 584px;
+	top: 94px;
+}
+#Group_41_ie {
+	position: absolute;
+	width: 70.044px;
+	height: 146.178px;
+	left: 718.575px;
+	top: 131.246px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Map___Yellow__MM_.html;
+	cursor: pointer;
+}
+#noun_Myanmar_3353450_if {
+	position: absolute;
+	width: 70.044px;
+	height: 146.178px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_37_ig {
+	position: absolute;
+	width: 70.044px;
+	height: 146.178px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Path_215_ih {
+	fill: rgba(255,228,54,1);
+}
+.Path_215_ih {
+	overflow: visible;
+	position: absolute;
+	width: 70.044px;
+	height: 146.179px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_602_ii {
+	fill: rgba(255,255,255,1);
+}
+.Path_602_ii {
+	overflow: visible;
+	position: absolute;
+	width: 8.89px;
+	height: 3.335px;
+	left: 15.285px;
+	top: 49.231px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_639_ij {
+	fill: rgba(255,255,255,1);
+}
+.Path_639_ij {
+	overflow: visible;
+	position: absolute;
+	width: 8.89px;
+	height: 3.335px;
+	left: 27.641px;
+	top: 59.117px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_603_ik {
+	fill: rgba(255,255,255,1);
+}
+.Path_603_ik {
+	overflow: visible;
+	position: absolute;
+	width: 8.555px;
+	height: 3.231px;
+	left: 38.47px;
+	top: 48.918px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_42_il {
+	position: absolute;
+	width: 70.044px;
+	height: 146.178px;
+	left: 630.844px;
+	top: 124.449px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Map___Green__MM__.html;
+	cursor: pointer;
+}
+#noun_Myanmar_3353450_im {
+	position: absolute;
+	width: 70.044px;
+	height: 146.178px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_37_in {
+	position: absolute;
+	width: 70.044px;
+	height: 146.178px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Path_215_io {
+	fill: rgba(0,255,57,1);
+}
+.Path_215_io {
+	overflow: visible;
+	position: absolute;
+	width: 70.044px;
+	height: 146.179px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_594_ip {
+	fill: rgba(255,255,255,1);
+}
+.Path_594_ip {
+	overflow: visible;
+	position: absolute;
+	width: 8.89px;
+	height: 3.335px;
+	left: 14.667px;
+	top: 52.32px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_595_iq {
+	fill: rgba(255,255,255,1);
+}
+.Path_595_iq {
+	overflow: visible;
+	position: absolute;
+	width: 8.555px;
+	height: 3.231px;
+	left: 37.853px;
+	top: 52.007px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_596_ir {
+	fill: rgba(255,255,255,1);
+}
+.Path_596_ir {
+	overflow: visible;
+	position: absolute;
+	width: 11.085px;
+	height: 5.837px;
+	left: 25.248px;
+	top: 61.575px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_44_is {
+	position: absolute;
+	width: 70.044px;
+	height: 146.178px;
+	left: 723.225px;
+	top: 338.326px;
+	overflow: visible;
+}
+#noun_Myanmar_3353450_it {
+	position: absolute;
+	width: 70.044px;
+	height: 146.178px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_37_iu {
+	position: absolute;
+	width: 70.044px;
+	height: 146.178px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Path_215_iv {
+	fill: rgba(116,78,194,1);
+}
+.Path_215_iv {
+	overflow: visible;
+	position: absolute;
+	width: 70.044px;
+	height: 146.179px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#noun_Gas_Mask_843993_iw {
+	position: absolute;
+	width: 17.934px;
+	height: 17.743px;
+	left: 22.86px;
+	top: 56.84px;
+	overflow: visible;
+}
+#Path_629_ix {
+	fill: rgba(255,255,255,1);
+}
+.Path_629_ix {
+	overflow: visible;
+	position: absolute;
+	width: 1.487px;
+	height: 5.042px;
+	left: 5.436px;
+	top: 10.488px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_630_iy {
+	fill: rgba(255,255,255,1);
+}
+.Path_630_iy {
+	overflow: visible;
+	position: absolute;
+	width: 1.495px;
+	height: 5.025px;
+	left: 11.027px;
+	top: 10.488px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_631_iz {
+	fill: rgba(255,255,255,1);
+}
+.Path_631_iz {
+	overflow: visible;
+	position: absolute;
+	width: 4.699px;
+	height: 4.67px;
+	left: 6.62px;
+	top: 10.665px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_632_i {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_632_i {
+	overflow: visible;
+	position: absolute;
+	width: 18.999px;
+	height: 18.743px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_633_i {
+	fill: rgba(255,255,255,1);
+}
+.Path_633_i {
+	overflow: visible;
+	position: absolute;
+	width: 1.794px;
+	height: 2.699px;
+	left: 10.575px;
+	top: 4.524px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_636_i {
+	fill: rgba(255,255,255,1);
+}
+.Path_636_i {
+	overflow: visible;
+	position: absolute;
+	width: 5.85px;
+	height: 5.85px;
+	left: 37.688px;
+	top: 46.337px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_637_i {
+	fill: rgba(255,255,255,1);
+}
+.Path_637_i {
+	overflow: visible;
+	position: absolute;
+	width: 5.85px;
+	height: 5.85px;
+	left: 21.334px;
+	top: 46.337px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_7_i {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_7_i {
+	overflow: visible;
+	position: absolute;
+	width: 16.03px;
+	height: 11.933px;
+	left: 40.468px;
+	top: 51.589px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_9_i {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_9_i {
+	overflow: visible;
+	position: absolute;
+	width: 4.906px;
+	height: 3.903px;
+	left: 40.468px;
+	top: 71.977px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_10_i {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_10_i {
+	overflow: visible;
+	position: absolute;
+	width: 9.859px;
+	height: 7.603px;
+	left: 13.901px;
+	top: 71.977px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_8_i {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_8_i {
+	overflow: visible;
+	position: absolute;
+	width: 16.673px;
+	height: 13.149px;
+	left: 7.105px;
+	top: 50.353px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_43_i {
+	position: absolute;
+	width: 70.044px;
+	height: 146.178px;
+	left: 630.551px;
+	top: 338.326px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Map___Red__MM_.html;
+	cursor: pointer;
+}
+#noun_Myanmar_3353450_i {
+	position: absolute;
+	width: 70.044px;
+	height: 146.178px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_37_ja {
+	position: absolute;
+	width: 70.044px;
+	height: 146.178px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Path_215_jb {
+	fill: rgba(255,0,16,1);
+}
+.Path_215_jb {
+	overflow: visible;
+	position: absolute;
+	width: 70.044px;
+	height: 146.179px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_616_jc {
+	fill: rgba(255,255,255,1);
+}
+.Path_616_jc {
+	overflow: visible;
+	position: absolute;
+	width: 7.292px;
+	height: 3.069px;
+	left: 17.229px;
+	top: 50.652px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_617_jd {
+	fill: rgba(255,255,255,1);
+}
+.Path_617_jd {
+	overflow: visible;
+	position: absolute;
+	width: 7.293px;
+	height: 3.069px;
+	left: 36.9px;
+	top: 50.676px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_638_je {
+	fill: rgba(255,255,255,1);
+}
+.Path_638_je {
+	overflow: visible;
+	position: absolute;
+	width: 21.624px;
+	height: 10.628px;
+	left: 21.006px;
+	top: 58.693px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_3_jf {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_3_jf {
+	overflow: visible;
+	position: absolute;
+	width: 12.871px;
+	height: 8.271px;
+	left: 42.321px;
+	top: 51.589px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_4_jg {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_4_jg {
+	overflow: visible;
+	position: absolute;
+	width: 17.693px;
+	height: 8.333px;
+	left: 4.016px;
+	top: 51.589px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_5_jh {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_5_jh {
+	overflow: visible;
+	position: absolute;
+	width: 14.423px;
+	height: 4.066px;
+	left: 10.194px;
+	top: 68.888px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_6_ji {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_6_ji {
+	overflow: visible;
+	position: absolute;
+	width: 8.505px;
+	height: 5.205px;
+	left: 38.614px;
+	top: 68.888px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_12_jj {
+	fill: transparent;
+	stroke: rgba(255,114,114,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_12_jj {
+	overflow: visible;
+	position: absolute;
+	width: 10.268px;
+	height: 1px;
+	left: 26.875px;
+	top: 61.474px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_13_jk {
+	fill: transparent;
+	stroke: rgba(255,114,114,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_13_jk {
+	overflow: visible;
+	position: absolute;
+	width: 10.268px;
+	height: 1px;
+	left: 26.875px;
+	top: 63.327px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_14_jl {
+	fill: transparent;
+	stroke: rgba(255,114,114,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_14_jl {
+	overflow: visible;
+	position: absolute;
+	width: 10.268px;
+	height: 1px;
+	left: 26.875px;
+	top: 65.181px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_45_jm {
+	position: absolute;
+	width: 70.044px;
+	height: 146.178px;
+	left: 810.957px;
+	top: 342.65px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Map___Brown__MM_.html;
+	cursor: pointer;
+}
+#noun_Myanmar_3353450_jn {
+	position: absolute;
+	width: 70.044px;
+	height: 146.178px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_37_jo {
+	position: absolute;
+	width: 70.044px;
+	height: 146.178px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Path_215_jp {
+	fill: rgba(148,20,45,1);
+}
+.Path_215_jp {
+	overflow: visible;
+	position: absolute;
+	width: 70.044px;
+	height: 146.179px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#noun_Gas_Mask_54734_jq {
+	position: absolute;
+	width: 62.63px;
+	height: 61.315px;
+	left: 0px;
+	top: 21.292px;
+	overflow: visible;
+}
+#Ellipse_243_jr {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_243_jr {
+	position: absolute;
+	overflow: visible;
+	width: 4.185px;
+	height: 4.186px;
+	left: 29.147px;
+	top: 42.493px;
+}
+#Ellipse_244_js {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_244_js {
+	position: absolute;
+	overflow: visible;
+	width: 4.185px;
+	height: 4.186px;
+	left: 29.147px;
+	top: 53.654px;
+}
+#Ellipse_245_jt {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_245_jt {
+	position: absolute;
+	overflow: visible;
+	width: 4.185px;
+	height: 4.186px;
+	left: 24.323px;
+	top: 45.279px;
+}
+#Ellipse_246_ju {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_246_ju {
+	position: absolute;
+	overflow: visible;
+	width: 4.185px;
+	height: 4.186px;
+	left: 33.988px;
+	top: 50.859px;
+}
+#Ellipse_247_jv {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_247_jv {
+	position: absolute;
+	overflow: visible;
+	width: 4.185px;
+	height: 4.186px;
+	left: 24.323px;
+	top: 50.851px;
+}
+#Ellipse_248_jw {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_248_jw {
+	position: absolute;
+	overflow: visible;
+	width: 4.185px;
+	height: 4.186px;
+	left: 33.988px;
+	top: 45.271px;
+}
+#Ellipse_249_jx {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_249_jx {
+	position: absolute;
+	overflow: visible;
+	width: 4.185px;
+	height: 4.186px;
+	left: 29.147px;
+	top: 48.064px;
+}
+#Path_623_jy {
+	fill: rgba(255,255,255,1);
+}
+.Path_623_jy {
+	overflow: visible;
+	position: absolute;
+	width: 32.915px;
+	height: 27.901px;
+	left: 14.701px;
+	top: 10.377px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_624_jz {
+	fill: rgba(255,255,255,1);
+}
+.Path_624_jz {
+	overflow: visible;
+	position: absolute;
+	width: 62.63px;
+	height: 61.315px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_641_j {
+	fill: rgba(255,255,255,1);
+}
+.Path_641_j {
+	overflow: visible;
+	position: absolute;
+	width: 5.85px;
+	height: 5.85px;
+	left: 36.452px;
+	top: 40.776px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_640_j {
+	fill: rgba(255,255,255,1);
+}
+.Path_640_j {
+	overflow: visible;
+	position: absolute;
+	width: 5.85px;
+	height: 5.85px;
+	left: 20.099px;
+	top: 40.776px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#States_j {
+	fill: rgba(0,160,255,1);
+}
+.States_j {
+	display: none;
+	position: absolute;
+	overflow: visible;
+	width: 40px;
+	height: 40px;
+	left: 907px;
+	top: 7px;
+}
+#EN_j {
+	left: 847px;
+	top: 17px;
+	position: absolute;
+	overflow: visible;
+	width: 28px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: Libre Baskerville;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#_j {
+	left: 953px;
+	top: 16px;
+	position: absolute;
+	overflow: visible;
+	width: 40px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: Libre Baskerville;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#Rectangle_811 {
+	fill: rgba(116,78,194,1);
+}
+.Rectangle_811 {
+	position: absolute;
+	overflow: visible;
+	width: 330px;
+	height: 157px;
+	left: 199px;
+	top: 377px;
+}
+#_ {
+	left: 217px;
+	top: 394px;
+	position: absolute;
+	overflow: visible;
+	width: 306px;
+	height: 102px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+}
+#Group_1296_j {
+	position: absolute;
+	width: 70.044px;
+	height: 146.178px;
+	left: 806.924px;
+	top: 131.246px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Map___Orange__MM_.html;
+	cursor: pointer;
+}
+#Group_40_j {
+	position: absolute;
+	width: 70.044px;
+	height: 146.178px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#noun_Myanmar_3353450_j {
+	position: absolute;
+	width: 70.044px;
+	height: 146.178px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_37_ka {
+	position: absolute;
+	width: 70.044px;
+	height: 146.178px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Path_215_kb {
+	fill: rgba(255,147,25,1);
+}
+.Path_215_kb {
+	overflow: visible;
+	position: absolute;
+	width: 70.044px;
+	height: 146.179px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_605_kc {
+	fill: rgba(255,255,255,1);
+}
+.Path_605_kc {
+	overflow: visible;
+	position: absolute;
+	width: 8.89px;
+	height: 3.335px;
+	left: 15.285px;
+	top: 49.231px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_604_kd {
+	fill: rgba(255,255,255,1);
+}
+.Path_604_kd {
+	overflow: visible;
+	position: absolute;
+	width: 8.555px;
+	height: 3.231px;
+	left: 38.47px;
+	top: 48.918px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_335_ke {
+	fill: rgba(255,255,255,1);
+}
+.Path_335_ke {
+	overflow: visible;
+	position: absolute;
+	width: 13.841px;
+	height: 4.969px;
+	left: 25.777px;
+	top: 58.64px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_1297_kf {
+	position: absolute;
+	width: 143.77px;
+	height: 91.005px;
+	left: 32.23px;
+	top: 410px;
+	overflow: visible;
+}
+#Path_662_kg {
+	fill: rgba(116,78,194,1);
+}
+.Path_662_kg {
+	overflow: visible;
+	position: absolute;
+	width: 9.781px;
+	height: 16.955px;
+	left: 94.617px;
+	top: 39.154px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_663_kh {
+	fill: rgba(116,78,194,1);
+}
+.Path_663_kh {
+	overflow: visible;
+	position: absolute;
+	width: 9.782px;
+	height: 16.954px;
+	left: 58.425px;
+	top: 40.051px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_664_ki {
+	fill: rgba(116,78,194,1);
+}
+.Path_664_ki {
+	overflow: visible;
+	position: absolute;
+	width: 21.984px;
+	height: 11.576px;
+	left: 70.024px;
+	top: 57.25px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#noun_Cloud_23746_kj {
+	fill: rgba(116,78,194,1);
+}
+.noun_Cloud_23746_kj {
+	overflow: visible;
+	position: absolute;
+	width: 143.77px;
+	height: 91.005px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#_-__kk {
+	left: 220px;
+	top: 118px;
+	position: absolute;
+	overflow: visible;
+	width: 37px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(112,112,112,1);
+}
+#_-__kl {
+	left: 337px;
+	top: 121px;
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(112,112,112,1);
+}
+#_-__km {
+	left: 461px;
+	top: 121px;
+	position: absolute;
+	overflow: visible;
+	width: 61px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(112,112,112,1);
+}
+#_-__kn {
+	left: 205px;
+	top: 249px;
+	position: absolute;
+	overflow: visible;
+	width: 61px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(112,112,112,1);
+}
+#_-__ko {
+	left: 328px;
+	top: 250px;
+	position: absolute;
+	overflow: visible;
+	width: 61px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(112,112,112,1);
+}
+#_-__kp {
+	left: 465px;
+	top: 250px;
+	position: absolute;
+	overflow: visible;
+	width: 61px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(112,112,112,1);
+}
+#_kq {
+	left: 220px;
+	top: 137px;
+	position: absolute;
+	overflow: visible;
+	width: 38px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,255,57,1);
+}
+#_kr {
+	left: 353px;
+	top: 137px;
+	position: absolute;
+	overflow: visible;
+	width: 23px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(255,228,54,1);
+}
+#___ks {
+	left: 428px;
+	top: 141px;
+	position: absolute;
+	overflow: visible;
+	width: 127px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(253,166,51,1);
+}
+#____kt {
+	left: 318px;
+	top: 271px;
+	position: absolute;
+	overflow: visible;
+	width: 85px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(255,0,16,1);
+}
+#_ku {
+	left: 171px;
+	top: 270px;
+	position: absolute;
+	overflow: visible;
+	width: 127px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(255,114,114,1);
+}
+#_kv {
+	left: 469px;
+	top: 270px;
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(116,78,194,1);
+}
+#Rectangle_784_kw {
+	fill: rgba(0,255,57,1);
+}
+.Rectangle_784_kw {
+	position: absolute;
+	overflow: visible;
+	width: 75px;
+	height: 22px;
+	left: 199px;
+	top: 95px;
+}
+#Rectangle_785_kx {
+	fill: rgba(255,228,54,1);
+}
+.Rectangle_785_kx {
+	position: absolute;
+	overflow: visible;
+	width: 75px;
+	height: 22px;
+	left: 326px;
+	top: 95px;
+}
+#Rectangle_786_ky {
+	fill: rgba(253,166,51,1);
+}
+.Rectangle_786_ky {
+	position: absolute;
+	overflow: visible;
+	width: 75px;
+	height: 22px;
+	left: 455px;
+	top: 95px;
+}
+#Rectangle_787_kz {
+	fill: rgba(255,88,88,0.839);
+}
+.Rectangle_787_kz {
+	position: absolute;
+	overflow: visible;
+	width: 75px;
+	height: 21px;
+	left: 199px;
+	top: 226px;
+}
+#Rectangle_788_k {
+	fill: rgba(255,0,16,1);
+}
+.Rectangle_788_k {
+	position: absolute;
+	overflow: visible;
+	width: 74px;
+	height: 21px;
+	left: 323px;
+	top: 226px;
+}
+#Rectangle_789_k {
+	fill: rgba(116,78,194,1);
+}
+.Rectangle_789_k {
+	position: absolute;
+	overflow: visible;
+	width: 75px;
+	height: 21px;
+	left: 455px;
+	top: 226px;
+}
+#Dark___Selection_Controls3_Swi_k {
+	position: absolute;
+	width: 34px;
+	height: 20px;
+	left: 901px;
+	top: 17px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Map___Purple__EN__.html;
+	cursor: pointer;
+}
+#_Color_l_Track_k {
+	fill: rgba(112,236,247,0.502);
+}
+._Color_l_Track_k {
+	position: absolute;
+	overflow: visible;
+	width: 34px;
+	height: 14px;
+	left: 0px;
+	top: 3px;
+}
+#_Color_l_Thumb_k {
+	fill: rgba(112,236,247,1);
+}
+._Color_l_Thumb_k {
+	filter: drop-shadow(0px 5px 10px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 50px;
+	height: 50px;
+	left: 14px;
+	top: 0px;
+}
