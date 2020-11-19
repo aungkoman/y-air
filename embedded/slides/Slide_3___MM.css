@@ -1,0 +1,394 @@
+.mediaViewInfo {
+	--web-view-name: Slide 3 - MM;
+	--web-view-id: Slide_3_-_MM;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Slide_3_-_MM;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Slide_3_-_MM {
+	position: absolute;
+	width: 1024px;
+	height: 600px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Slide 3 - MM;
+	--web-view-id: Slide_3_-_MM;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#States_eq {
+	fill: rgba(0,160,255,1);
+}
+.States_eq {
+	display: none;
+	position: absolute;
+	overflow: visible;
+	width: 40px;
+	height: 40px;
+	left: 907px;
+	top: 7px;
+}
+#Group_1301 {
+	position: absolute;
+	width: 468px;
+	height: 263px;
+	left: 278px;
+	top: 290px;
+	overflow: visible;
+}
+#Group_1300 {
+	position: absolute;
+	width: 468px;
+	height: 263px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Google______data____report___d {
+	left: 44px;
+	top: 67px;
+	position: absolute;
+	overflow: visible;
+	width: 921px;
+	height: 242px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(112,112,112,1);
+}
+#Air_Pollution_VS_Mobility_Repo {
+	left: 381px;
+	top: 23px;
+	position: absolute;
+	overflow: visible;
+	width: 264px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+	letter-spacing: -0.23299999237060548px;
+}
+#__ev {
+	left: 32px;
+	top: 39px;
+	position: absolute;
+	overflow: visible;
+	width: 4px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(0,0,0,1);
+}
+#Group_1314_ew {
+	position: absolute;
+	width: 34px;
+	height: 34px;
+	left: 964px;
+	top: 273px;
+	overflow: visible;
+	--web-animation: fadein 0.4s ease-out;
+	--web-action-type: page;
+	--web-action-target: Slide_4__MM.html;
+	cursor: pointer;
+}
+#Ellipse_3_ex {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(43,84,110,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_3_ex {
+	position: absolute;
+	overflow: visible;
+	width: 34px;
+	height: 34px;
+	left: 0px;
+	top: 0px;
+}
+#noun_Next_1833638_ey {
+	position: absolute;
+	width: 5.818px;
+	height: 7.011px;
+	left: 14.178px;
+	top: 13.503px;
+	overflow: visible;
+}
+#Group_8_ez {
+	position: absolute;
+	width: 5.818px;
+	height: 7.011px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Path_1_e {
+	fill: rgba(43,84,110,1);
+	stroke: rgba(43,84,110,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_1_e {
+	overflow: visible;
+	position: absolute;
+	width: 6.818px;
+	height: 8.063px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_1315_e {
+	position: absolute;
+	width: 34px;
+	height: 34px;
+	left: 10px;
+	top: 273px;
+	overflow: visible;
+	--web-animation: fadein 0.4s ease-out;
+	--web-action-type: page;
+	--web-action-target: Slide_2___MM.html;
+	cursor: pointer;
+}
+#Ellipse_15_e {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(43,84,110,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_15_e {
+	position: absolute;
+	overflow: visible;
+	width: 34px;
+	height: 34px;
+	left: 0px;
+	top: 0px;
+}
+#noun_Next_1833638_e {
+	position: absolute;
+	width: 5.818px;
+	height: 7.011px;
+	left: 13.761px;
+	top: 13.503px;
+	overflow: visible;
+}
+#Group_8_e {
+	position: absolute;
+	width: 5.818px;
+	height: 7.011px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Path_1_fa {
+	fill: rgba(43,84,110,1);
+	stroke: rgba(43,84,110,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_1_fa {
+	overflow: visible;
+	position: absolute;
+	width: 6.818px;
+	height: 8.063px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_1327_e {
+	position: absolute;
+	width: 125px;
+	height: 9px;
+	left: 450px;
+	top: 567px;
+	overflow: visible;
+}
+#Ellipse_4_e {
+	fill: transparent;
+	stroke: rgba(44,101,141,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_4_e {
+	position: absolute;
+	overflow: visible;
+	width: 9px;
+	height: 9px;
+	left: 0px;
+	top: 0px;
+}
+#Ellipse_4_fa {
+	fill: transparent;
+	stroke: rgba(44,101,141,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_4_fa {
+	position: absolute;
+	overflow: visible;
+	width: 9px;
+	height: 9px;
+	left: 29px;
+	top: 0px;
+}
+#Path_1491 {
+	fill: rgba(44,101,141,1);
+	stroke: rgba(44,101,141,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_1491 {
+	overflow: visible;
+	position: absolute;
+	width: 9px;
+	height: 9px;
+	left: 58px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Ellipse_4_fb {
+	fill: transparent;
+	stroke: rgba(44,101,141,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_4_fb {
+	position: absolute;
+	overflow: visible;
+	width: 9px;
+	height: 9px;
+	left: 87px;
+	top: 0px;
+}
+#Ellipse_4_fc {
+	fill: transparent;
+	stroke: rgba(44,101,141,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_4_fc {
+	position: absolute;
+	overflow: visible;
+	width: 9px;
+	height: 9px;
+	left: 116px;
+	top: 0px;
+}
+#EN_fc {
+	left: 847px;
+	top: 17px;
+	position: absolute;
+	overflow: visible;
+	width: 28px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: Libre Baskerville;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#_fd {
+	left: 953px;
+	top: 16px;
+	position: absolute;
+	overflow: visible;
+	width: 40px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: Libre Baskerville;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#Dark___Selection_Controls3_Swi_fe {
+	position: absolute;
+	width: 34px;
+	height: 20px;
+	left: 901px;
+	top: 17px;
+	overflow: visible;
+	--web-animation: fadein 0.4s ease-out;
+	--web-action-type: page;
+	--web-action-target: Slide_3___EN.html;
+	cursor: pointer;
+}
+#_Color_l_Track_ff {
+	fill: rgba(112,236,247,0.502);
+}
+._Color_l_Track_ff {
+	position: absolute;
+	overflow: visible;
+	width: 34px;
+	height: 14px;
+	left: 0px;
+	top: 3px;
+}
+#_Color_l_Thumb_fg {
+	fill: rgba(112,236,247,1);
+}
+._Color_l_Thumb_fg {
+	filter: drop-shadow(0px 5px 10px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 50px;
+	height: 50px;
+	left: 14px;
+	top: 0px;
+}

@@ -1,0 +1,369 @@
+.mediaViewInfo {
+	--web-view-name: Slide 5 - EN;
+	--web-view-id: Slide_5_-_EN;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Slide_5_-_EN;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Slide_5_-_EN {
+	position: absolute;
+	width: 1024px;
+	height: 600px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Slide 5 - EN;
+	--web-view-id: Slide_5_-_EN;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#States_g {
+	fill: rgba(0,160,255,1);
+}
+.States_g {
+	display: none;
+	position: absolute;
+	overflow: visible;
+	width: 40px;
+	height: 40px;
+	left: 907px;
+	top: 7px;
+}
+#The_coronavirus_Covid-19_is_af {
+	left: 27px;
+	top: 64px;
+	position: absolute;
+	overflow: visible;
+	width: 971px;
+	height: 190px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(112,112,112,1);
+}
+#Group_1309_g {
+	position: absolute;
+	width: 468px;
+	height: 245px;
+	left: 62px;
+	top: 290px;
+	overflow: visible;
+}
+#Group_1308_g {
+	position: absolute;
+	width: 468px;
+	height: 245px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_1313_g {
+	position: absolute;
+	width: 467px;
+	height: 167px;
+	left: 525px;
+	top: 326px;
+	overflow: visible;
+}
+#Group_1312_ha {
+	position: absolute;
+	width: 467px;
+	height: 167px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Source_httpsdatastudiogoogleco_hb {
+	left: 60px;
+	top: 539px;
+	position: absolute;
+	overflow: visible;
+	width: 420px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(0,0,0,1);
+}
+#__hc {
+	left: 257px;
+	top: 589px;
+	position: absolute;
+	overflow: visible;
+	width: 4px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(0,0,0,1);
+}
+#Relationship_between_number_of_hd {
+	left: 225px;
+	top: 23px;
+	position: absolute;
+	overflow: visible;
+	width: 543px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+	letter-spacing: -0.23299999237060548px;
+}
+#Group_1315_he {
+	position: absolute;
+	width: 34px;
+	height: 34px;
+	left: 10px;
+	top: 273px;
+	overflow: visible;
+	--web-animation: fadein 0.4s ease-out;
+	--web-action-type: page;
+	--web-action-target: Slide_4__EN.html;
+	cursor: pointer;
+}
+#Ellipse_15_hf {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(43,84,110,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_15_hf {
+	position: absolute;
+	overflow: visible;
+	width: 34px;
+	height: 34px;
+	left: 0px;
+	top: 0px;
+}
+#noun_Next_1833638_hg {
+	position: absolute;
+	width: 5.818px;
+	height: 7.011px;
+	left: 13.761px;
+	top: 13.503px;
+	overflow: visible;
+}
+#Group_8_hh {
+	position: absolute;
+	width: 5.818px;
+	height: 7.011px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Path_1_hi {
+	fill: rgba(43,84,110,1);
+	stroke: rgba(43,84,110,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_1_hi {
+	overflow: visible;
+	position: absolute;
+	width: 6.818px;
+	height: 8.063px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_1327_hj {
+	position: absolute;
+	width: 125px;
+	height: 9px;
+	left: 450px;
+	top: 567px;
+	overflow: visible;
+}
+#Ellipse_4_hk {
+	fill: transparent;
+	stroke: rgba(44,101,141,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_4_hk {
+	position: absolute;
+	overflow: visible;
+	width: 9px;
+	height: 9px;
+	left: 0px;
+	top: 0px;
+}
+#Ellipse_4_hl {
+	fill: transparent;
+	stroke: rgba(44,101,141,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_4_hl {
+	position: absolute;
+	overflow: visible;
+	width: 9px;
+	height: 9px;
+	left: 29px;
+	top: 0px;
+}
+#Ellipse_4_hm {
+	fill: transparent;
+	stroke: rgba(44,101,141,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_4_hm {
+	position: absolute;
+	overflow: visible;
+	width: 9px;
+	height: 9px;
+	left: 58px;
+	top: 0px;
+}
+#Ellipse_4_hn {
+	fill: transparent;
+	stroke: rgba(44,101,141,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_4_hn {
+	position: absolute;
+	overflow: visible;
+	width: 9px;
+	height: 9px;
+	left: 87px;
+	top: 0px;
+}
+#Path_1492_ho {
+	fill: rgba(44,101,141,1);
+	stroke: rgba(44,101,141,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_1492_ho {
+	overflow: visible;
+	position: absolute;
+	width: 9px;
+	height: 9px;
+	left: 116px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_99 {
+	position: absolute;
+	width: 34px;
+	height: 20px;
+	left: 901px;
+	top: 17px;
+	overflow: visible;
+	--web-animation: fadein 0.4s ease-out;
+	--web-action-type: page;
+	--web-action-target: Slide_5___MM.html;
+	cursor: pointer;
+}
+#Dark___Selection_Controls3_Swi_hq {
+	position: absolute;
+	width: 34px;
+	height: 20px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#_Color_l_Track_hr {
+	fill: rgba(184,181,228,0.502);
+}
+._Color_l_Track_hr {
+	position: absolute;
+	overflow: visible;
+	width: 34px;
+	height: 14px;
+	left: 0px;
+	top: 3px;
+}
+#_Color_l_Thumb_hs {
+	fill: rgba(151,148,222,1);
+}
+._Color_l_Thumb_hs {
+	filter: drop-shadow(0px 5px 10px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 50px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+}
+#EN_ht {
+	left: 847px;
+	top: 17px;
+	position: absolute;
+	overflow: visible;
+	width: 28px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: Libre Baskerville;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#_hu {
+	left: 953px;
+	top: 16px;
+	position: absolute;
+	overflow: visible;
+	width: 40px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: Libre Baskerville;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}

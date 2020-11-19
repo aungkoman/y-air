@@ -1,0 +1,402 @@
+.mediaViewInfo {
+	--web-view-name: Slide 3 - EN;
+	--web-view-id: Slide_3_-_EN;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Slide_3_-_EN;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Slide_3_-_EN {
+	position: absolute;
+	width: 1024px;
+	height: 600px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Slide 3 - EN;
+	--web-view-id: Slide_3_-_EN;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#States_iq {
+	fill: rgba(0,160,255,1);
+}
+.States_iq {
+	display: none;
+	position: absolute;
+	overflow: visible;
+	width: 40px;
+	height: 40px;
+	left: 907px;
+	top: 7px;
+}
+#Group_1301_ir {
+	position: absolute;
+	width: 468px;
+	height: 263px;
+	left: 278px;
+	top: 290px;
+	overflow: visible;
+}
+#Group_1300_is {
+	position: absolute;
+	width: 468px;
+	height: 263px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Google_released_data_about_mob {
+	left: 44px;
+	top: 67px;
+	position: absolute;
+	overflow: hidden;
+	width: 921px;
+	height: 169px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(112,112,112,1);
+}
+#Air_Pollution_VS_Mobility_Repo_iu {
+	left: 381px;
+	top: 23px;
+	position: absolute;
+	overflow: visible;
+	width: 264px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+	letter-spacing: -0.23299999237060548px;
+}
+#__iv {
+	left: 32px;
+	top: 39px;
+	position: absolute;
+	overflow: visible;
+	width: 4px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(0,0,0,1);
+}
+#Group_1314_iw {
+	position: absolute;
+	width: 34px;
+	height: 34px;
+	left: 964px;
+	top: 273px;
+	overflow: visible;
+	--web-animation: fadein 0.4s ease-out;
+	--web-action-type: page;
+	--web-action-target: Slide_4__EN.html;
+	cursor: pointer;
+}
+#Ellipse_3_ix {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(43,84,110,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_3_ix {
+	position: absolute;
+	overflow: visible;
+	width: 34px;
+	height: 34px;
+	left: 0px;
+	top: 0px;
+}
+#noun_Next_1833638_iy {
+	position: absolute;
+	width: 5.818px;
+	height: 7.011px;
+	left: 14.178px;
+	top: 13.503px;
+	overflow: visible;
+}
+#Group_8_iz {
+	position: absolute;
+	width: 5.818px;
+	height: 7.011px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Path_1_i {
+	fill: rgba(43,84,110,1);
+	stroke: rgba(43,84,110,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_1_i {
+	overflow: visible;
+	position: absolute;
+	width: 6.818px;
+	height: 8.063px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_1315_i {
+	position: absolute;
+	width: 34px;
+	height: 34px;
+	left: 10px;
+	top: 273px;
+	overflow: visible;
+	--web-animation: fadein 0.4s ease-out;
+	--web-action-type: page;
+	--web-action-target: Slide_2___EN.html;
+	cursor: pointer;
+}
+#Ellipse_15_i {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(43,84,110,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_15_i {
+	position: absolute;
+	overflow: visible;
+	width: 34px;
+	height: 34px;
+	left: 0px;
+	top: 0px;
+}
+#noun_Next_1833638_i {
+	position: absolute;
+	width: 5.818px;
+	height: 7.011px;
+	left: 13.761px;
+	top: 13.503px;
+	overflow: visible;
+}
+#Group_8_i {
+	position: absolute;
+	width: 5.818px;
+	height: 7.011px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Path_1_ja {
+	fill: rgba(43,84,110,1);
+	stroke: rgba(43,84,110,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_1_ja {
+	overflow: visible;
+	position: absolute;
+	width: 6.818px;
+	height: 8.063px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_1327_i {
+	position: absolute;
+	width: 125px;
+	height: 9px;
+	left: 450px;
+	top: 567px;
+	overflow: visible;
+}
+#Ellipse_4_i {
+	fill: transparent;
+	stroke: rgba(44,101,141,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_4_i {
+	position: absolute;
+	overflow: visible;
+	width: 9px;
+	height: 9px;
+	left: 0px;
+	top: 0px;
+}
+#Ellipse_4_ja {
+	fill: transparent;
+	stroke: rgba(44,101,141,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_4_ja {
+	position: absolute;
+	overflow: visible;
+	width: 9px;
+	height: 9px;
+	left: 29px;
+	top: 0px;
+}
+#Path_1491_i {
+	fill: rgba(44,101,141,1);
+	stroke: rgba(44,101,141,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_1491_i {
+	overflow: visible;
+	position: absolute;
+	width: 9px;
+	height: 9px;
+	left: 58px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Ellipse_4_jb {
+	fill: transparent;
+	stroke: rgba(44,101,141,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_4_jb {
+	position: absolute;
+	overflow: visible;
+	width: 9px;
+	height: 9px;
+	left: 87px;
+	top: 0px;
+}
+#Ellipse_4_jc {
+	fill: transparent;
+	stroke: rgba(44,101,141,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_4_jc {
+	position: absolute;
+	overflow: visible;
+	width: 9px;
+	height: 9px;
+	left: 116px;
+	top: 0px;
+}
+#Group_99_jc {
+	position: absolute;
+	width: 34px;
+	height: 20px;
+	left: 901px;
+	top: 17px;
+	overflow: visible;
+	--web-animation: fadein 0.4s ease-out;
+	--web-action-type: page;
+	--web-action-target: Slide_3___MM.html;
+	cursor: pointer;
+}
+#Dark___Selection_Controls3_Swi_jd {
+	position: absolute;
+	width: 34px;
+	height: 20px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#_Color_l_Track_je {
+	fill: rgba(184,181,228,0.502);
+}
+._Color_l_Track_je {
+	position: absolute;
+	overflow: visible;
+	width: 34px;
+	height: 14px;
+	left: 0px;
+	top: 3px;
+}
+#_Color_l_Thumb_jf {
+	fill: rgba(151,148,222,1);
+}
+._Color_l_Thumb_jf {
+	filter: drop-shadow(0px 5px 10px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 50px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+}
+#EN_jg {
+	left: 847px;
+	top: 17px;
+	position: absolute;
+	overflow: visible;
+	width: 28px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: Libre Baskerville;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#_jh {
+	left: 953px;
+	top: 16px;
+	position: absolute;
+	overflow: visible;
+	width: 40px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: Libre Baskerville;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}

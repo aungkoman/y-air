@@ -1,0 +1,386 @@
+.mediaViewInfo {
+	--web-view-name: Slide 1 - EN;
+	--web-view-id: Slide_1_-_EN;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Slide_1_-_EN;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Slide_1_-_EN {
+	position: absolute;
+	width: 1024px;
+	height: 600px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Slide 1 - EN;
+	--web-view-id: Slide_1_-_EN;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#States_kg {
+	fill: rgba(0,160,255,1);
+}
+.States_kg {
+	display: none;
+	position: absolute;
+	overflow: visible;
+	width: 40px;
+	height: 40px;
+	left: 907px;
+	top: 7px;
+}
+#The_air_quality_index_AQI_is_a {
+	left: 38px;
+	top: 75px;
+	position: absolute;
+	overflow: visible;
+	width: 921px;
+	height: 131px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(112,112,112,1);
+}
+#___1_Ground-level_ozone_2_Part {
+	left: 77px;
+	top: 210px;
+	position: absolute;
+	overflow: hidden;
+	width: 921px;
+	height: 189px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(112,112,112,1);
+}
+#Source__httpswwwbusiness-stand_kj {
+	left: 750px;
+	top: 412px;
+	position: absolute;
+	overflow: visible;
+	width: 186px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 6px;
+	color: rgba(0,0,0,1);
+}
+#__kk {
+	left: 619.914px;
+	top: 564px;
+	position: absolute;
+	overflow: visible;
+	width: 4px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(0,0,0,1);
+}
+#__kl {
+	left: 257px;
+	top: 589px;
+	position: absolute;
+	overflow: visible;
+	width: 4px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(0,0,0,1);
+}
+#Image_47_km {
+	position: absolute;
+	width: 427px;
+	height: 240px;
+	left: 521px;
+	top: 202px;
+	overflow: visible;
+}
+#What_is_AQI__kn {
+	left: 454px;
+	top: 23px;
+	position: absolute;
+	overflow: visible;
+	width: 118px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+	letter-spacing: -0.23299999237060548px;
+}
+#Group_1327_ko {
+	position: absolute;
+	width: 125px;
+	height: 9px;
+	left: 450px;
+	top: 567px;
+	overflow: visible;
+}
+#Ellipse_4_kp {
+	fill: rgba(44,101,141,1);
+	stroke: rgba(44,101,141,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_4_kp {
+	position: absolute;
+	overflow: visible;
+	width: 9px;
+	height: 9px;
+	left: 0px;
+	top: 0px;
+}
+#Ellipse_4_kq {
+	fill: transparent;
+	stroke: rgba(44,101,141,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_4_kq {
+	position: absolute;
+	overflow: visible;
+	width: 9px;
+	height: 9px;
+	left: 29px;
+	top: 0px;
+}
+#Ellipse_4_kr {
+	fill: transparent;
+	stroke: rgba(44,101,141,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_4_kr {
+	position: absolute;
+	overflow: visible;
+	width: 9px;
+	height: 9px;
+	left: 58px;
+	top: 0px;
+}
+#Ellipse_4_ks {
+	fill: transparent;
+	stroke: rgba(44,101,141,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_4_ks {
+	position: absolute;
+	overflow: visible;
+	width: 9px;
+	height: 9px;
+	left: 87px;
+	top: 0px;
+}
+#Ellipse_4_kt {
+	fill: transparent;
+	stroke: rgba(44,101,141,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_4_kt {
+	position: absolute;
+	overflow: visible;
+	width: 9px;
+	height: 9px;
+	left: 116px;
+	top: 0px;
+}
+#Group_1314_ku {
+	position: absolute;
+	width: 34px;
+	height: 34px;
+	left: 964px;
+	top: 273px;
+	overflow: visible;
+	--web-animation: fadein 0.4s ease-out;
+	--web-action-type: page;
+	--web-action-target: Slide_2___EN.html;
+	cursor: pointer;
+}
+#Ellipse_3_kv {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(43,84,110,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_3_kv {
+	position: absolute;
+	overflow: visible;
+	width: 34px;
+	height: 34px;
+	left: 0px;
+	top: 0px;
+}
+#noun_Next_1833638_kw {
+	position: absolute;
+	width: 5.818px;
+	height: 7.011px;
+	left: 14.178px;
+	top: 13.503px;
+	overflow: visible;
+}
+#Group_8_kx {
+	position: absolute;
+	width: 5.818px;
+	height: 7.011px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Path_1_ky {
+	fill: rgba(43,84,110,1);
+	stroke: rgba(43,84,110,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_1_ky {
+	overflow: visible;
+	position: absolute;
+	width: 6.818px;
+	height: 8.063px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#_The_higher_the_AQI_value_the_ {
+	left: 27px;
+	top: 422px;
+	position: absolute;
+	overflow: visible;
+	width: 985px;
+	height: 103px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(112,112,112,1);
+}
+#Group_99_k {
+	position: absolute;
+	width: 34px;
+	height: 20px;
+	left: 901px;
+	top: 17px;
+	overflow: visible;
+	--web-animation: fadein 0.4s ease-out;
+	--web-action-type: page;
+	--web-action-target: Slide_1___MM.html;
+	cursor: pointer;
+}
+#Dark___Selection_Controls3_Swi_k {
+	position: absolute;
+	width: 34px;
+	height: 20px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#_Color_l_Track_k {
+	fill: rgba(184,181,228,0.502);
+}
+._Color_l_Track_k {
+	position: absolute;
+	overflow: visible;
+	width: 34px;
+	height: 14px;
+	left: 0px;
+	top: 3px;
+}
+#_Color_l_Thumb_k {
+	fill: rgba(151,148,222,1);
+}
+._Color_l_Thumb_k {
+	filter: drop-shadow(0px 5px 10px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 50px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+}
+#EN_k {
+	left: 847px;
+	top: 17px;
+	position: absolute;
+	overflow: visible;
+	width: 28px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: Libre Baskerville;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#_k {
+	left: 953px;
+	top: 16px;
+	position: absolute;
+	overflow: visible;
+	width: 40px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: Libre Baskerville;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
