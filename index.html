@@ -160,7 +160,7 @@
 			
 			<!-- Section: Data Visualization -->
 			<section id="aqi">
-				<h5 class="my-4 dark-grey-text font-weight-bold">Home</h5>
+				
 				<div class="card">
 					<div class="card-body">
 						<!-- Map Interactive -->
@@ -176,7 +176,7 @@
 			
 			<!-- Section: Data Visualization -->
 			<section id="home">
-				<h5 class="my-4 dark-grey-text font-weight-bold">Home</h5>
+				
 				<div class="card">
 					<div class="card-body">
 						<iframe id="slideShowId" src="./embedded/slides/Slide_1___EN.html">
@@ -190,7 +190,6 @@
 
 			<!-- Section: Data Visualization -->
 			<section id="data-visualization">
-				<h5 class="my-4 dark-grey-text font-weight-bold">Data Visualization</h5>
 				<div class="card">
 					<div class="card-body">
 						<iframe width="100%" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiMzk2NTJkYmItNmY5My00ODY4LTk5NzItNzJmOGIzM2YxZTQ5IiwidCI6IjM4YjE0YjlkLWIzZTMtNDliOS1hOTljLTM3ZTRmOTBmMjYzNyIsImMiOjEwfQ%3D%3D&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
@@ -213,7 +212,7 @@
 			
 			<!-- Section: Forecast -->
 			<section id="forecast">
-				<h5 class="my-4 dark-grey-text font-weight-bold">Forecast</h5>
+				
 				<div class="card">
 					<div class="card-body">
 						<iframe width="100%" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiMWEyYzhjMjQtMGUxNC00YjJiLWJjYjktMjVmNGE3ZTJiNzI0IiwidCI6IjM4YjE0YjlkLWIzZTMtNDliOS1hOTljLTM3ZTRmOTBmMjYzNyIsImMiOjEwfQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
@@ -225,7 +224,7 @@
 			
 			<!-- Section: about-us -->
 			<section id="about-us">
-				<h5 class="my-4 dark-grey-text font-weight-bold">About Us</h5>
+				
 				<div class="card">
 					<div class="card-body">
 						<iframe id="aboutUsId" src="./embedded/team/About_Us_.html">
@@ -238,7 +237,7 @@
 			
 			<!-- Section: about-us -->
 			<section id="contact-us">
-				<h5 class="my-4 dark-grey-text font-weight-bold">Contact Us</h5>
+				
 				<div class="card">
 					<div class="card-body">
 						<iframe id="contactUsId" src="./embedded/contact/Contact_Us_.html">
@@ -326,6 +325,8 @@
 			  console.log(hash+" and "+hash.length);
 			  if(hash.length != 0 ) $("#"+hash).show();
 		      else $("#home").show();
+			  
+			  hashChange(hash);
 		      // login section show
 		      // all hide
 		
@@ -343,10 +344,42 @@
 					let hash = window.location.hash.substring(1);
 					console.log(hash+" and "+hash.length);
 					$('section').hide();
-					if(hash.length != 0 ) $("#"+hash).show();
+					if(hash.length != 0 ){
+						$("#"+hash).show();
+					} 
 					else $("#home").show();
+
+					hashChange(hash);
+
+
 			  });
 		    });
+
+			function hashChange(hash){
+				switch (hash){
+						case 'home':
+							$("#header_id").text("Y-Air");
+							break;
+						case 'aqi':
+							$("#header_id").text("AQI (Air Index Quality)");
+							break;
+						case 'data-visualization':
+							$("#header_id").text("Data Visualization ( Before & During Covid-19 )");
+							break;
+						case 'forecast':
+							$("#header_id").text("Data Visualization ( For 1 Week )");
+							break;
+						case 'about-us':
+							$("#header_id").text("Who are we ?");
+							break;
+						case 'contact-us':
+							$("#header_id").text("Let’s get in touch with us.");
+							break;
+						default:
+							$("#header_id").text("Y-Air");
+							break;
+					}
+			}
 		
 		    // Tooltips Initialization
 		    $(function () {
